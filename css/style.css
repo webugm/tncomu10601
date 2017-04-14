@@ -5,3 +5,20 @@ td{
 	padding-bottom: 20px;
 	padding-right: 20px;
 }
+
+.d1{
+	background-color: red;
+	border: solid black 2px;
+	margin: 30px;
+	padding: 20px;
+	width: 50%;
+	height: 300px;
+}
+.d2{
+	background-color: #188417;
+	border: solid #2112CD 10px;
+	margin: 60px;
+	padding: 20px;
+	width: 50%;
+	height: 100px;
+}
