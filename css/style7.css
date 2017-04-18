@@ -1,0 +1,24 @@
+body{
+	margin: 0;	
+}
+.container{
+	width: 500px;
+	height: 200px;
+	background-color: #1E0CB9;
+	padding: 20px;
+}
+.bd{
+	border: solid 20px #D82323;
+	background-color: #15DF27;
+}
+
+.pd{
+	background-color: #EFE41B;
+	padding: 20px;
+
+}
+.content{
+	background-color: #fff;
+	height: 100px;
+	padding: 10px;
+}
