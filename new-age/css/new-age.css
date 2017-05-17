@@ -29,10 +29,12 @@ a {
   -moz-transition: all 0.35s;
   transition: all 0.35s;
   color: #fdcc52;
+  text-decoration: none;
 }
 a:hover,
 a:focus {
   color: #fcbd20;
+  text-decoration: none;
 }
 hr {
   max-width: 100px;
